@@ -30,8 +30,13 @@
 
 ### Уровень 1: Крафт (foundation)
 
+#### 1.0 William Zinsser — "How to Write Well" *(2026-04-10)*
+**Статус:** Прочитан, выжимка: KB/zinsser-full.md
+**Фокус:** Простота, мусор, стиль, нон-фикшн, голос, вкус, переписывание.
+**Дополняет:** Кинга и Макки (у них фикшн, у Зинсера — нон-фикшн и письмо общего назначения).
+
 #### 1.1 Stephen King — "On Writing"
-**Статус:** Не читал
+**Статус:** Читаю (выжимка + упражнения в процессе)
 **Фокус:** Практика, как работает prose на практике. Главы про drafting, revision, voice.
 **Примеры:** Приёмы из книги → exercises/craft.md
 **Timeline:** ASAP — это база
@@ -165,7 +170,8 @@
 ---
 
 ## Статус
-- [x] Stephen King — On Writing *(выжимка: work/writing/books/stephen-king-on-writing.md · упражнение: exercises/draft_001.md)*
+- [x] William Zinsser — "How to Write Well" *(выжимка: KB/zinsser-full.md · интегрирован: WRITING-CRAFT.md)*
+- [x] Stephen King — "On Writing" *(выжимка: books/stephen-king-on-writing.md · упражнение: exercises/draft_001.md)*
 - [ ] John Gardner — Art of Fiction
 - [ ] Strunk & White — Elements of Style
 - [ ] Robert McKee — Story
@@ -177,4 +183,4 @@
 - [ ] Vernor Vinge — A Fire Upon the Deep
 
 ## Последнее обновление
-2026-04-07 · Echo Libero
+2026-04-10 · Echo Libero
